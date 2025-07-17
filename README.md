@@ -4,16 +4,16 @@ This is a web-based calculator application built as part of The Odin Project cur
 
 ## **Table of Contents**
 
-- [Features](https://www.google.com/search?q=%23features)
-- [Technologies Used](https://www.google.com/search?q=%23technologies-used)
-- [Live Demo](https://www.google.com/search?q=%23live-demo)
-- [Getting Started](https://www.google.com/search?q=%23getting-started)
-- [Usage](https://www.google.com/search?q=%23usage)
-- [Project Requirements & Implementation Details](https://www.google.com/search?q=%23project-requirements--implementation-details)
-- [Gotchas & Bug Fixes](https://www.google.com/search?q=%23gotchas--bug-fixes)
-- [Extra Credit](https://www.google.com/search?q=%23extra-credit)
-- [Contributing](https://www.google.com/search?q=%23contributing)
-- [License](https://www.google.com/search?q=%23license)
+- [Assignment Goals](#assignment-goals)
+- [Features](#features)
+- [Extra Credit](#extra-credit)
+- [Live Demo](#live-demo)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Implementation Details](#implementation-details)
+- [Known Issues & Fixes](#known-issues--fixes)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## **Features**
 
